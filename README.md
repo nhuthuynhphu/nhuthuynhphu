@@ -1,1 +1,2 @@
-<img style="align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhuthuynhphu&layout=compact&langs_count=10&hide=hack,shell,html&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="" />
+![Huynh's github stats](https://github-readme-stats.vercel.app/api?username=nhuthuynhphu&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhuthuynhphu&theme=nightowl&hide=hack,shell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
